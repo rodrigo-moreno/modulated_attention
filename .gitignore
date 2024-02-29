@@ -1,0 +1,7 @@
+#Ignore Finder configuration file
+.DS_Store
+
+
+#Ignore swap files
+*.swp
+
