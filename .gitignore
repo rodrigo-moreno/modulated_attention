@@ -5,3 +5,10 @@
 #Ignore swap files
 *.swp
 
+#Ignore all image files
+*.pdf
+*.svg
+*.png
+*.jpg
+*.jpeg
+
